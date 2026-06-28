@@ -36,8 +36,9 @@
 
 # Visual Studio cache directory
 .vs/
+# Custom
 .idea/
-
+.idea/.idea.SimpleJumpGame/.idea/workspace.xml
 # Gradle cache directory
 .gradle/
 
